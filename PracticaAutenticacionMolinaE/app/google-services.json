@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223118701102",
+    "project_id": "practicaautenticacionmolinae",
+    "storage_bucket": "practicaautenticacionmolinae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223118701102:android:55795448f18dd94dffa5bf",
+        "android_client_info": {
+          "package_name": "molina.esmeralda.practicaautenticacionmolinae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2dEDO7a5vxUzNd9sjnLgOLXPGHpOTAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
